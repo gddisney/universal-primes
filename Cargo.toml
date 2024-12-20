@@ -1,0 +1,21 @@
+[package]
+name = "universal-primes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-traits = "0.2"
+num-integer = "0.1"
+num-complex ="0.1"
+rand = "0.8"
+rand_chacha = "0.3"
+rand_distr = "0.4"
+sha3 = "0.10"
+thiserror = "1.0"
+hex = "0.4"
+num-bigint = { version = "0.4", features = ["serde","rand"] }
+clap = { version = "4.1", features = ["derive"] } # For command-line argument parsing
+rayon = "1.5"         # For parallel processing
+log = "0.4.22"
+num-bigfloat = "1.7.1"
+primal = "0.3.3"
