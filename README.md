@@ -1,6 +1,3 @@
-Certainly! Below is an integrated and comprehensive document that combines your **Formal Proof** with the **Rust Implementation** of the Universal Primes sequence generator. This unified presentation not only provides a theoretical foundation but also offers a practical example of how to compute and classify universal primes using Rust. 
-
----
 
 ## **Formal Proof and Implementation: Universal Primes Are Real**
 
